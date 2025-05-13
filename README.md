@@ -3,6 +3,21 @@ Agri Energy Connect - Visual Studio Project
 Student Number :ST10214012  
 PROG7311  
 
+How To Download On github:
+Click on github zip folder
+
+![ITHUB ZIP FOLDER](https://github.com/user-attachments/assets/28a64b62-574e-4d92-a88c-c2ddd0aafddc)
+
+
+press on this to start download: 
+
+
+![press on this to download](https://github.com/user-attachments/assets/acb1010e-c901-4e37-8bfa-6312d957ab8a)
+
+It should then start downloading.
+
+
+
 Overview
 This project is a Visual Studio solution developed for Agri Energy Connect, an initiative aimed at bridging the gap between the agricultural sector and green energy providers. The solution serves as a prototype for a web application, demonstrating its intended functionality and design.
 ---
