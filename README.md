@@ -48,12 +48,25 @@ Employee   Can add farmer profiles, view all products, and search for products b
 ---
 Database Information
 The prototype uses local databases for:  
-- Employee data  
-- Product data  
-- User profiles  
+- Employee data
+
+  
+![Employee DATABASSE](https://github.com/user-attachments/assets/b692d2d7-e285-41d2-839b-85e5faa04d5a)
+- Product data
+  
+![Products DATABASE](https://github.com/user-attachments/assets/ec430e36-9287-4ca7-a031-fcf56087a95b)
+
+  
+- User profiles
+
+  
+![User TABLE](https://github.com/user-attachments/assets/a9237824-2692-4e58-9847-6caf88ed8eb0)
+
+
 ---
 Prototype UI
 The interface provides a basic layout representing the future design of the full web application.  
+
 
 ---
 
